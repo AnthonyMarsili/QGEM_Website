@@ -1,7 +1,7 @@
 Queen's Genetically Engineered Machine Website
 ----------------------------------------------
 
-Please naviagte to the follwoing link "https://2020.igem.org/Team:Queens_Canada" to view QGEM's 2020 website.
+Please naviagte to the follwoing link https://2020.igem.org/Team:Queens_Canada to view QGEM's 2020 website.
 
 The itention of this website is to showcase the team's hard work in developing a biosensor that is crucial in assisting the millions of Canadians suffering from Chronic Kidney Disease.
 
@@ -9,4 +9,4 @@ The team's project and website was submitted to MIT's annual International Genet
 
 The code for the different pages of the website can be viewed by navigating to "Wiki Tools" -> "View Source".
 
-The code for the Templates used on the pages can be found by navigating to "https://2020.igem.org/Template:Queens_Canada/Replace-With-Template-Name".
+The code for the Templates used on the pages can be found by navigating to https://2020.igem.org/Template:Queens_Canada/Replace-With-Template-Name.
