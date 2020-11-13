@@ -1,7 +1,7 @@
 Queen's Genetically Engineered Machine Website
 ----------------------------------------------
 
-Following the link in the "Go to Website" text file will bring you to QGEM's 2020 website. 
+Please naviagte to the follwoing link "https://2020.igem.org/Team:Queens_Canada" to view QGEM's 2020 website.
 
 The itention of this website is to showcase the team's hard work in developing a biosensor that is crucial in assisting the millions of Canadians suffering from Chronic Kidney Disease.
 
